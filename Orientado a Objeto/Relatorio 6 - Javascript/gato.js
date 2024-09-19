@@ -1,3 +1,5 @@
+import { Animal } from './animal.js';
+
 class Gato extends Animal {
     #colors = [];
 

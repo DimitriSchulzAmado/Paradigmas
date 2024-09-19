@@ -13,6 +13,10 @@
     métodos de cada classe.
 */
 
+import Animal from './animal.js';
+import Cachorro from './cachorro.js';
+import Gato from './gato.js';
+
 const animal = new Animal('Noberto', 5, 'Canino');
 const cachorro = new Cachorro('Chosen', 5, 'Canino', 'Vira-lata');
 const gato = new Gato('Pandora', 3, 'Felino', ['Preto', 'Branco']);
