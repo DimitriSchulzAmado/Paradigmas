@@ -1,4 +1,5 @@
 using System;
+using cachorro;
 
 class CachorroPequeno : Cachorro {  
 
