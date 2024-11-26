@@ -9,11 +9,11 @@ class Cachorro {
         this.idade = idade;
     }
 
-    public void showDognome() {
+    public void showDogName() {
         Console.WriteLine("O nome do cachorro é: " + nome);
     }
 
-    public void showidade() {
+    public void showIdade() {
         Console.WriteLine("A idade do cachorro é: " + idade);
     }
 }
